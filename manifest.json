@@ -1,0 +1,13 @@
+{
+  "name": "Naive Note",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "A very simple textpad to allow you do some text work momentarily.",
+  "browser_action": {
+    "default_icon": "t.ico",
+    "default_popup": "t.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
